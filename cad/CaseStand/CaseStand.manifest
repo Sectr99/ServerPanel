@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "p4_case.stl on a 65 deg stand, modules on an 800R arc"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}

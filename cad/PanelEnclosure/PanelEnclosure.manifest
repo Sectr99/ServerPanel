@@ -1,0 +1,10 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "script",
+	"author": "",
+	"description": {
+		"": "Arc desk enclosure for four Waveshare ESP32-P4 7B panels"
+	},
+	"supportedOS": "windows|mac",
+	"editEnabled": true
+}
